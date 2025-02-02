@@ -1,0 +1,10 @@
+C:\Users\Semченко\rustback\target\debug\deps\libproc_macro2_diagnostics-5ab50289133da25f.rmeta: C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs
+
+C:\Users\Semченко\rustback\target\debug\deps\libproc_macro2_diagnostics-5ab50289133da25f.rlib: C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs
+
+C:\Users\Semченко\rustback\target\debug\deps\proc_macro2_diagnostics-5ab50289133da25f.d: C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs
+
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs:

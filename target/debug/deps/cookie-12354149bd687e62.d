@@ -1,0 +1,11 @@
+C:\Users\Semченко\rustback\target\debug\deps\libcookie-12354149bd687e62.rmeta: C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\Semченко\rustback\target\debug\deps\cookie-12354149bd687e62.d: C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs
+
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\lib.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\builder.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\parse.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\jar.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\delta.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\draft.rs:
+C:\Users\Semченко\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.16.2\src\expiration.rs:
